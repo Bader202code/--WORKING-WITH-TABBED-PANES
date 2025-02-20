@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FormPanelManagement" />
+        <module name="ListPanelManagement" />
+        <module name="AppFrameManagement" />
+        <module name="ComputingManagement" />
+        <module name="InfoPanelManagement" />
+        <module name="ButtonPanelManagement" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ListPanelManangement" target="23" />
+      <module name="MiscPanelManagement" target="23" />
+      <module name="TestAppManagement" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
