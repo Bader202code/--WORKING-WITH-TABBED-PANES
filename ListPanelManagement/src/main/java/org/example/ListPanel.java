@@ -80,3 +80,5 @@ class ListPanel extends JPanel {
         }
     }
 }
+
+//This code is fill the table (input) to show the answer (output).
