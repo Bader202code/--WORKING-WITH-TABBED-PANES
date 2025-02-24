@@ -44,3 +44,6 @@ class InfoPanel extends JPanel {
         add(scrollPane, BorderLayout.CENTER);
     }
 }
+
+
+// This code is show design of border app
