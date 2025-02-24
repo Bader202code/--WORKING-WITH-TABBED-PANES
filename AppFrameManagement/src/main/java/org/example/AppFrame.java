@@ -35,3 +35,6 @@ public class AppFrame extends JFrame {
     }
 
 }
+
+
+//This code is creat Tabbed pane in main frame
