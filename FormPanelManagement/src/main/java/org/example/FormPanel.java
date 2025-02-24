@@ -52,3 +52,5 @@ class FormPanel extends JPanel {
         detailsFrame.setVisible(true);
     }
 }
+
+//This code is Show The details to fill it.
