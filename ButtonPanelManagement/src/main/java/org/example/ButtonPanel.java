@@ -30,3 +30,5 @@ class ButtonPanel extends JPanel {
                 + "</font></b></center></html>");
     }
 }
+ 
+// This code show the button panel like(view,exit).
