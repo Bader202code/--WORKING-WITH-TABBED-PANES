@@ -69,3 +69,5 @@ class Computing extends JPanel {
         }
     }
 }
+
+//This code is show the result what you text.
